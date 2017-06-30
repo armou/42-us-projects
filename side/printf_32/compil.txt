@@ -1,0 +1,1 @@
+gcc -I ./includes/ -L./libft -lft -L. -lftprintf main.c
